@@ -1,8 +1,4 @@
 #!/bin/bash
-grep_pattern(){
-    read foo
-    echo "$foo hello" 
-}
 list_a=""
 list_b=""
 while read line; do
